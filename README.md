@@ -19,7 +19,7 @@
 - 📊 Passionate about **Data Analytics, Dashboard Development & Business Intelligence**
 - 💬 Ask me about **Python, SQL, Pandas, Power BI, Excel**
 - 🚀 Goal: Become a Data Analyst and solve real-world business problems using data.
-- 📫 Email: **smritibiswas4496@gmail.com**
+
 
 ###
 
